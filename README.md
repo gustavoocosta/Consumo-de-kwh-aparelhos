@@ -16,5 +16,5 @@ Antes de executar a API, certifique-se de ter o Go instalado em seu sistema.
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/gustavosocosta/consumo-de-energia.git
+   git clone https://github.com/gustavoocosta/Consumo-de-kwh-aparelhos
    cd consumo-de-energia
