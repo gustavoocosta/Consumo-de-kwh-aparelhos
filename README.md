@@ -10,11 +10,3 @@ Esta é uma API simples desenvolvida em Go para calcular o consumo de energia de
 ## Pré-requisitos
 
 Antes de executar a API, certifique-se de ter o Go instalado em seu sistema.
-
-## Instalação
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/gustavoocosta/Consumo-de-kwh-aparelhos
-   cd consumo-de-energia
